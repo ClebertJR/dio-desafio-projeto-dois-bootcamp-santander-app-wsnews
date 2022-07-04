@@ -30,7 +30,7 @@ public class NewsViewModel extends ViewModel {
 
     public NewsViewModel() {
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("https://digitalinnovationone.github.io/soccer-news-api/")
+                .baseUrl("https://clebertjr.github.io/dio-desafio-projeto-dois-bootcamp-santander-api-wsnews/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
         api = retrofit.create(SoccerNewsApi.class);
