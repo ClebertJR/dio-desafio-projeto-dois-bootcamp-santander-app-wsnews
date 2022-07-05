@@ -1,13 +1,20 @@
 
-Women Soccer News - WSNews
+# Women Soccer News - WSNews
 
-Aplicativo Android Nativo de Notícias Sobre Futebol Feminino
+### Aplicativo Android Nativo de Notícias Sobre Futebol Feminino
 
-Desenvolvimento Mobile Nativo Para Android
-release/desenvolvimento-mobile-nativo-para-android
-Componentes, Layouts e UI/UX Em Apps Android
-release/componentes-layouts-ui-ux-em-apps-android
-Java e Kotlin Juntos!? Construindo Apps Android
-release/java-e-kotlin-juntos-construindo-apps-android
-Explorando o Firebase Para Apps Android Resilientes
-release/explorando-o-firebase-para-apps-android-resilientes
+1. #### Primeiros Ajustes de UI/ UX
+
+(release/android-jetpack-material-design-app-wsnews)
+
+2. #### Utilizando Bibliotecas Externas
+
+release/retrofit-picasso-conexao-api
+
+3. #### Criação de Banco de Dados Local
+
+release/database-favorite-function
+
+4. #### Primeira Versão Funcional
+
+release/primeira-versao-funcional
